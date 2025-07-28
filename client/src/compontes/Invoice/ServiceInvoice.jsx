@@ -184,7 +184,7 @@ const EditableInvoice = () => {
 
     try {
 
-      const result = (await axios("https://cc-invoice-api.onrender.com/api/invoice/invoice-items")).data
+      const result = (await axios("https://cc-server-7u7u.onrender.com/api/invoice/invoice-items")).data
       console.log("resut", result)
       setdescription(() => result?.data)
 
