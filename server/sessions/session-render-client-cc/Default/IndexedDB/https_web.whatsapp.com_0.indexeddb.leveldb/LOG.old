@@ -1,21 +1,3 @@
-2025/07/07-11:06:45.608 3915 Reusing MANIFEST /home/dev/Desktop/cool&clean-invoice/server/sessions/session-render-client-cc/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/07/07-11:06:45.610 3915 Recovering log #646
-2025/07/07-11:06:45.619 3915 Reusing old log /home/dev/Desktop/cool&clean-invoice/server/sessions/session-render-client-cc/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000646.log 
-2025/07/07-11:06:49.960 3943 Level-0 table #655: started
-2025/07/07-11:06:49.968 3943 Level-0 table #655: 59443 bytes OK
-2025/07/07-11:06:49.976 3943 Delete type=0 #646
-2025/07/07-11:06:49.976 3943 Manual compaction at level-0 from '\x00x\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00y\x00\x00\x00' @ 0 : 0; will stop at (end)
-2025/07/07-11:06:56.622 393c Compacting 1@1 + 5@2 files
-2025/07/07-11:06:56.915 393c Generated table #656@1: 65175 keys, 2205583 bytes
-2025/07/07-11:06:57.263 393c Generated table #657@1: 96428 keys, 2249009 bytes
-2025/07/07-11:06:57.633 393c Generated table #658@1: 100004 keys, 2251027 bytes
-2025/07/07-11:06:57.972 393c Generated table #659@1: 95599 keys, 2263173 bytes
-2025/07/07-11:06:58.193 393c Generated table #660@1: 29888 keys, 1642248 bytes
-2025/07/07-11:06:58.193 393c Compacted 1@1 + 5@2 files => 10611040 bytes
-2025/07/07-11:06:58.196 393c compacted to: files[ 0 0 5 0 0 0 0 ]
-2025/07/07-11:06:58.198 393c Delete type=2 #655
-2025/07/07-11:06:58.198 393c Delete type=2 #652
-2025/07/07-11:06:58.198 393c Delete type=2 #650
-2025/07/07-11:06:58.198 393c Delete type=2 #651
-2025/07/07-11:06:58.198 393c Delete type=2 #648
-2025/07/07-11:06:58.198 393c Delete type=2 #649
+2025/07/07-11:10:31.343 4e6e Reusing MANIFEST /home/dev/Desktop/cool&clean-invoice/server/sessions/session-render-client-cc/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/07-11:10:31.344 4e6e Recovering log #654
+2025/07/07-11:10:31.368 4e6e Reusing old log /home/dev/Desktop/cool&clean-invoice/server/sessions/session-render-client-cc/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000654.log 

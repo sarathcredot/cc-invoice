@@ -1,3 +1,21 @@
-2025/07/07-11:10:31.343 4e6e Reusing MANIFEST /home/dev/Desktop/cool&clean-invoice/server/sessions/session-render-client-cc/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/07/07-11:10:31.344 4e6e Recovering log #654
-2025/07/07-11:10:31.368 4e6e Reusing old log /home/dev/Desktop/cool&clean-invoice/server/sessions/session-render-client-cc/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000654.log 
+2025/07/28-15:32:37.241 6947 Reusing MANIFEST /home/dev/Desktop/cool&clean-invoice/server/sessions/session-render-client-cc/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/28-15:32:37.243 6947 Recovering log #654
+2025/07/28-15:32:37.299 6947 Reusing old log /home/dev/Desktop/cool&clean-invoice/server/sessions/session-render-client-cc/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000654.log 
+2025/07/28-15:32:40.655 6947 Level-0 table #663: started
+2025/07/28-15:32:40.667 6947 Level-0 table #663: 341301 bytes OK
+2025/07/28-15:32:40.669 6947 Delete type=0 #654
+2025/07/28-15:32:40.670 6947 Manual compaction at level-0 from '\x00y\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00z\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/07/28-15:32:43.743 694f Compacting 1@1 + 5@2 files
+2025/07/28-15:32:43.878 694f Generated table #664@1: 67384 keys, 2208476 bytes
+2025/07/28-15:32:44.050 694f Generated table #665@1: 96429 keys, 2249003 bytes
+2025/07/28-15:32:44.186 694f Generated table #666@1: 100186 keys, 2253420 bytes
+2025/07/28-15:32:44.298 694f Generated table #667@1: 95010 keys, 2264755 bytes
+2025/07/28-15:32:44.396 694f Generated table #668@1: 29194 keys, 1611521 bytes
+2025/07/28-15:32:44.396 694f Compacted 1@1 + 5@2 files => 10587175 bytes
+2025/07/28-15:32:44.397 694f compacted to: files[ 0 0 5 0 0 0 0 ]
+2025/07/28-15:32:44.399 694f Delete type=2 #659
+2025/07/28-15:32:44.399 694f Delete type=2 #663
+2025/07/28-15:32:44.399 694f Delete type=2 #658
+2025/07/28-15:32:44.399 694f Delete type=2 #660
+2025/07/28-15:32:44.399 694f Delete type=2 #656
+2025/07/28-15:32:44.399 694f Delete type=2 #657

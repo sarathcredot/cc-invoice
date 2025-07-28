@@ -366,7 +366,7 @@ const EditableInvoice = () => {
       formData.append("finalData", JSON.stringify(finalData));
       formData.append("pdf", pdfBlob, `invoice-${invoiceData.invoiceNumber}.pdf`);
 
-      const result = await axios.post("https://cc-invoice-api.onrender.com/api/invoice/serviceinvoice", formData)
+      const result = await axios.post("https://cc-server-7u7u.onrender.com/api/invoice/serviceinvoice", formData)
       // const result = await axios.post("http://localhost:3018/api/invoice/serviceinvoice", formData)
 
       // console.log(result.data)
