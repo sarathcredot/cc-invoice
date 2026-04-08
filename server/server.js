@@ -59,6 +59,7 @@ const clearTerminal = () => {
 };
 
 const createClient = () => {
+    console.log("create client ");
     return new Client({
         authStrategy: new LocalAuth({
             clientId: process.env.CLIENT_ID || 'render-client-cc',
